@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faiz9838&label=Profile%20views&color=0e75b6&style=flat" alt="faiz9838" /> </p>
 
-- 🔭 I’m currently working on **Samanee Global**
+- 🔭 I’m currently looking for opportunities for Software Developor.
 
 - 🌱 I’m currently learning **Typescript, NextJs, ReactJs, NodeJs**
 
