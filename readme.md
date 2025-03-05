@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faiz9838&label=Profile%20views&color=0e75b6&style=flat" alt="faiz9838" /> </p>
 
-- 🔭 I’m currently working on **Tathastu-App**
+- 🔭 I’m currently working on **Samanee Global**
 
-- 🌱 I’m currently learning **Typescript,NextJs,React, NodeJs**
+- 🌱 I’m currently learning **Typescript, NextJs, ReactJs, NodeJs**
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://faiz-portfolio-drab.vercel.app/](https://faiz-portfolio-drab.vercel.app/)
 
-- 💬 Ask me about **Java,MERN**
+- 💬 Ask me about **Java, MERN**
 
 - 📫 How to reach me **afaiz8720@gmail.com**
 
