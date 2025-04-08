@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Samanee Global**
 
-- 👨‍💻 All of my projects are available at [https://faiz-portfolio-drab.vercel.app/](https://faiz-portfolio-drab.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://faiz-portfolio-drab.vercel.app/](https://afaiz9838-portfolio.netlify.app/)
 
 - 💬 Ask me about **Java, MERN**
 
